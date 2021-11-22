@@ -35,15 +35,18 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="BehaviacDesignerBase, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>.\BehaviacDesignerBase.dll</HintPath>
+      <HintPath>..\..\designer\out\BehaviacDesignerBase.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Newtonsoft.Json.11.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+      <Aliases>global</Aliases>
     </Reference>
     <Reference Include="PluginBehaviac, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>.\PluginBehaviac.dll</HintPath>
+      <HintPath>..\..\designer\out\PluginBehaviac.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -72,6 +75,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Newtonsoft.Json.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
