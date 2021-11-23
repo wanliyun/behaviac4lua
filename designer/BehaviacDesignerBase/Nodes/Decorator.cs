@@ -38,7 +38,7 @@ namespace Behaviac.Design.Nodes
         {
             get
             {
-                return "http://www.behaviac.com/decorator/";
+                return "https://www.behaviac.com/decorator/";
             }
         }
 

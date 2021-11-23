@@ -33,7 +33,7 @@ namespace PluginBehaviac.Nodes
         {
             get
             {
-                return "http://www.behaviac.com/decorator/#countlimit";
+                return "https://www.behaviac.com/decorator/#countlimit";
             }
         }
 

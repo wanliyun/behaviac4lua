@@ -111,7 +111,7 @@ namespace Behaviac.Design.Nodes
         {
             get
             {
-                return "http://www.behaviac.com/action/";
+                return "https://www.behaviac.com/action/";
             }
         }
 

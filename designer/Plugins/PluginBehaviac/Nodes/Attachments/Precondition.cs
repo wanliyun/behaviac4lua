@@ -40,7 +40,7 @@ namespace PluginBehaviac.Events
         {
             get
             {
-                return "http://www.behaviac.com/attachment/#section";
+                return "https://www.behaviac.com/attachment/#section";
             }
         }
 

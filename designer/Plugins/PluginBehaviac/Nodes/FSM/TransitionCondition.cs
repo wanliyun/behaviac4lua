@@ -28,7 +28,7 @@ namespace PluginBehaviac.Events
         {
             get
             {
-                return "http://www.behaviac.com/fsm/";
+                return "https://www.behaviac.com/fsm/";
             }
         }
 

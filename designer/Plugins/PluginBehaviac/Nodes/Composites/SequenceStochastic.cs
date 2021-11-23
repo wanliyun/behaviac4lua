@@ -33,7 +33,7 @@ namespace PluginBehaviac.Nodes
         {
             get
             {
-                return "http://www.behaviac.com/sequencestochastic/";
+                return "https://www.behaviac.com/sequencestochastic/";
             }
         }
 

@@ -47,7 +47,7 @@ namespace Behaviac.Design.Attachments
         {
             get
             {
-                return "http://www.behaviac.com/attachment/#section-1";
+                return "https://www.behaviac.com/attachment/#section-1";
             }
         }
 

@@ -741,7 +741,7 @@ Please be sure to open the workspace which is used by the runtime!</value>
   <data name="MetaWarning" xml:space="preserve">
     <value>The workspace file will be updated and the meta file will not be used any longer.
 You should export all files with the latest designer.
-更多详情请参考：http://www.behaviac.com/language/zh/updatenotes/#36x</value>
+更多详情请参考：https://www.behaviac.com/language/zh/updatenotes/#36x</value>
   </data>
   <data name="PreviewCode" xml:space="preserve">
     <value>Preview the prototype code without any tag comments  for the selected type.</value>

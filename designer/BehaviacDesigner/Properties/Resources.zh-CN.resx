@@ -731,7 +731,7 @@
 4. 请将这些代码文件添加到项目并且编译构建。如果有编译错误请直接注释掉出错的代码。请参考下面的链接获取详情。
 5. 重新导出所有的行为树。然后就可以运行程序了。
 
-更多详情请参考：http://www.behaviac.com/language/zh/updatenotes/#36x</value>
+更多详情请参考：https://www.behaviac.com/language/zh/updatenotes/#36x</value>
   </data>
   <data name="PreviewCode" xml:space="preserve">
     <value>预览选中类型的原型代码，该代码内容不包含用于合并代码所需的标签注释。

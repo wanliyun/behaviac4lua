@@ -73,7 +73,7 @@ namespace PluginBehaviac.Nodes
         {
             get
             {
-                return "http://www.behaviac.com/parallel/";
+                return "https://www.behaviac.com/parallel/";
             }
         }
 

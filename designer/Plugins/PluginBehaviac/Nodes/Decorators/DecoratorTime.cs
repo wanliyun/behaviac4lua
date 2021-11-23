@@ -33,7 +33,7 @@ namespace PluginBehaviac.Nodes
         {
             get
             {
-                return "http://www.behaviac.com/decorator/#time";
+                return "https://www.behaviac.com/decorator/#time";
             }
         }
 

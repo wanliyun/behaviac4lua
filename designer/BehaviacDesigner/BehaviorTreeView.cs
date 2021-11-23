@@ -3236,7 +3236,7 @@ namespace Behaviac.Design
 
         private void openDoc()
         {
-            string docLink = "http://www.behaviac.com/";
+            string docLink = "https://www.behaviac.com/";
 
             if (SelectedNode != null)
             {

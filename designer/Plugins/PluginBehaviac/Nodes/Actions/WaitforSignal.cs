@@ -34,7 +34,7 @@ namespace PluginBehaviac.Nodes
         {
             get
             {
-                return "http://www.behaviac.com/waitforsignal/";
+                return "https://www.behaviac.com/waitforsignal/";
             }
         }
 

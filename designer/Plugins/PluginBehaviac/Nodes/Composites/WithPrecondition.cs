@@ -39,7 +39,7 @@ namespace PluginBehaviac.Nodes
         {
             get
             {
-                return "http://www.behaviac.com/docs/zh/tutorials/selectormonitor/";
+                return "https://www.behaviac.com/docs/zh/tutorials/selectormonitor/";
             }
         }
 
